@@ -1,0 +1,110 @@
+[
+    {
+        "id": "001",
+        "company_logo": "https://www.pngkey.com/png/detail/375-3750564_hand-written-facebook-name-logo-png.png",
+        "job_title": "Frontend Developer",
+        "company_name": "FaceBook",
+        "remote_or_onsite": "Onsite",
+        "location": "Menlo Park, California",
+        "fullTime_or_partTime": "Full-time",
+        "salary": "$80,000 - $100,000",
+        "job_description": "We are seeking a talented frontend developer to join our team.",
+        "job_responsibility": "Responsibilities include developing and maintaining our web applications.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field",
+        "experiences": "Minimum 3 years of experience in frontend development",
+        "contact_information": {
+            "phone": "555-1234",
+            "email": "jobs@abcinc.com"
+        }
+    },
+    {
+        "id": "002",
+        "company_logo": "https://www.citypng.com/public/uploads/preview/-11596996178apaxd1pez2.png",
+        "job_title": "Software Engineer",
+        "company_name": "Google LLC",
+        "remote_or_onsite": "Remote",
+        "location": "New York, NY",
+        "fullTime_or_partTime": "Full-time",
+        "salary": "$90,000 - $120,000",
+        "job_description": "We are seeking a talented software engineer to join our team.",
+        "job_responsibility": "Responsibilities include developing and maintaining our backend systems.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field",
+        "experiences": "Minimum 5 years of experience in software engineering",
+        "contact_information": {
+            "phone": "555-5678",
+            "email": "jobs@xyzcorp.com"
+        }
+    },
+    {
+        "id": "003",
+        "company_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/905px-Amazon_logo.svg.png",
+        "job_title": "Developer",
+        "company_name": "Amazon",
+        "remote_or_onsite": "Onsite",
+        "location": "Seattle, Washington",
+        "fullTime_or_partTime": "Full-time",
+        "salary": "$80,000 - $100,000",
+        "job_description": "We are seeking a talented and professional developer to join our team.",
+        "job_responsibility": "Responsibilities include developing and maintaining our backend systems.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field",
+        "experiences": "Minimum 4 years of experience in Developing",
+        "contact_information": {
+            "phone": "555-9012",
+            "email": "jobs@amazon.com"
+        }
+    },
+    {
+        "id": "004",
+        "company_logo": "https://img2.gratispng.com/20180701/fau/kisspng-microsoft-logo-longview-5b3906e1911cc5.9971145715304639695944.jpg",
+        "job_title": "Data Scientist",
+        "company_name": "Microsoft",
+        "remote_or_onsite": "Remote",
+        "location": "Redmond, Washington",
+        "fullTime_or_partTime": "part-time",
+        "salary": "$80,000 - $100,000",
+        "job_description": "Microsoft is seeking a data scientist to join our growing data science team. You will be responsible for developing and implementing machine learning models, analyzing data to generate insights, and communicating results to stakeholders.",
+        "job_responsibility": "Responsibilities:\n- Develop and implement machine learning models to solve complex business problems\n- Analyze large data sets to identify trends and insights\n- Collaborate with cross-functional teams to understand business needs and design solutions\n- Communicate results and insights to stakeholders",
+        "educational_requirements": "Master's degree in Computer Science or related field",
+        "experiences": "Minimum 5 years of experience in Developing",
+        "contact_information": {
+            "phone": "555-9012",
+            "email": "jobs@microsoft.com"
+        }
+    },
+    {
+        "id": "005",
+        "company_logo": "https://www.vectorlogo.zone/logos/apple/apple-ar21.png",
+        "job_title": "backend developer",
+        "company_name": "Apple",
+        "remote_or_onsite": "Remote",
+        "location": "Cupertino, California",
+        "fullTime_or_partTime": "part-time",
+        "salary": "$100,000 - $150,000",
+        "job_description": "We are seeking a talented backend developer to join our team.",
+        "job_responsibility": "Responsibilities:\n- Develop and implement machine learning models to solve complex business problems\n- Analyze large data sets to identify trends and insights\n- Collaborate with cross-functional teams to understand business needs and design solutions\n- Communicate results and insights to stakeholders",
+        "educational_requirements": "Master's degree in Computer Science or related field",
+        "experiences": "Minimum 5 years of experience in Developing",
+        "contact_information": {
+            "phone": "555-9012",
+            "email": "jobs@apple.com"
+        }
+    },
+    {
+        "id": "006",
+        "company_logo": "https://www.vectorlogo.zone/logos/shopify/shopify-ar21.png",
+        "job_title": "Software-developer",
+        "company_name": "Shopify",
+        "remote_or_onsite": "Onsite",
+        "location": "Ottawa, Canada",
+        "fullTime_or_partTime": "full-time",
+        "salary": "$80,000 - $150,000",
+        "job_description": "We are seeking a talented Software developer to join our team.",
+        "job_responsibility": "Responsibilities:\n- Develop and implement machine learning models to solve complex business problems\n- Analyze large data sets to identify trends and insights\n- Collaborate with cross-functional teams to understand business needs and design solutions\n- Communicate results and insights to stakeholders",
+        "educational_requirements": "Master's degree in Computer Science or related field",
+        "experiences": "Minimum 5 years of experience in Developing",
+        "contact_information": {
+            "phone": "555-9012",
+            "email": "jobs@shopify.com"
+        }
+    }
+]

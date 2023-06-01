@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "logo": "https://cdn-icons-png.flaticon.com/128/3242/3242257.png",
+        "name": "Web Development",
+        "jobsAvailable": 200
+    },
+    {
+        "id": "02",
+        "logo": "https://cdn-icons-png.flaticon.com/128/2335/2335265.png",
+        "name": "App Development",
+        "jobsAvailable": 100
+    },
+    {
+        "id": "03",
+        "logo": "https://cdn-icons-png.flaticon.com/128/2282/2282188.png",
+        "name": "Game Development",
+        "jobsAvailable": 150
+    },
+    {
+        "id": "04",
+        "logo": "https://cdn-icons-png.flaticon.com/128/1336/1336494.png",
+        "name": "Software Development",
+        "jobsAvailable": 120
+    }
+]
